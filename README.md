@@ -1,4 +1,4 @@
-# T-Rex Dinosaur jump Using Hand detection
+# T-Rex Dinosaur jump Using Hand detection and finger counter
 ## installation
 ### Windows 
 #### exec it in CMD
